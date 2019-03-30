@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_a1be55453c5f44e1c3d7f545b8191a45231e86ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_7a7c4b5c2244e182bfd6c5c8fba0a95c1a740df7.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.1.0_c7f7fff74ecce6683dc93926d43236205837c7bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_0e7928eac60813531a7b6699db9427c70adb372d.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_f057db2ea1426fc082378d0575feae889e9390bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.1.0_f63af36d7e458a916a641125ed9805b28b128bcb.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_a2a8a2e5913b38e65e9d2d9d2ec494e5d04f4c56.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.1.0_b42e391194046f12a56cdba6bc34bc572be5e58f.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_0555dd92194764400d0dc26c6bd0c996f5e8f5f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_307e717d3e031d55d810d8d4488662bb82a7fab0.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_ae5b705ea19cf62f69a8ac0129ca737909aac800.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_12779df4f2cfeb40ed45eb1f977a8b9c075fb40d.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\Crash-Alert-master\Crash-Alert-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_13af990611063b2be35c207beaee2459110c9b13.jar" />
+    </item>
+
+</items>
